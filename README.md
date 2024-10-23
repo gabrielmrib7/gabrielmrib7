@@ -1,4 +1,4 @@
-# 👋 Olá, mundo! Sou o Gabriel Miranda
+### Hello 🌎, Sou o Gabriel Miranda
 
 ##### Atualmente tenho 19 anos, e estou no 4º período da universidade.
 
