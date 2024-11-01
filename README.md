@@ -44,6 +44,7 @@
  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmrib7&repo=Recriando-a-interface-inicial-do-Instagram&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gabrielmrib7/Recriando-a-interface-inicial-do-Instagram)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmrib7&repo=LandingPage&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gabrielmrib7/LandingPage)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmrib7&repo=minimal-api-questoes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gabrielmrib7/minimal-api-questoes)
+
  
  
 
